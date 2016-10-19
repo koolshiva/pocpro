@@ -1,0 +1,7 @@
+@mixin add-padding($size,$position){
+	@if $position == "top-bottom" {
+		padding: $size 0;
+	}@else if $position == "" {
+		padding: 0 $size;
+	}
+}

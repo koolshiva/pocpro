@@ -1,0 +1,42 @@
+{
+	"data":{
+		"noOfTabs" : "4",
+		"tab-data":[{
+			"tabName":"Here's My Card",
+			"tabPosition":1,
+			"content":{
+				"profileName":"Tolkien",
+				"designation":"Professor, Oxford University",
+				"Phone":"+44 87654321",
+				"webSite":"www.tolkienestate.com"
+			}
+		},{
+			"tabName":"Here's My Card",
+			"tabPosition":1,
+			"content":{
+				"profileName":"Tolkien",
+				"designation":"Professor, Oxford University",
+				"Phone":"+44 87654321",
+				"webSite":"www.tolkienestate.com"
+			}
+		},{
+			"tabName":"Here's My Card",
+			"tabPosition":1,
+			"content":{
+				"profileName":"Tolkien",
+				"designation":"Professor, Oxford University",
+				"Phone":"+44 87654321",
+				"webSite":"www.tolkienestate.com"
+			}
+		},{
+			"tabName":"Here's My Card",
+			"tabPosition":1,
+			"content":{
+				"profileName":"Tolkien",
+				"designation":"Professor, Oxford University",
+				"Phone":"+44 87654321",
+				"webSite":"www.tolkienestate.com"
+			}
+		}]
+	}
+}

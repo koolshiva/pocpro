@@ -1,0 +1,17 @@
+/* header menu sections */
+.header-main{
+	background:#00aff0;	
+}
+
+.header-main > div.row{
+	display: flex;
+    align-items: center;
+}
+
+.header-menu-right{
+	padding:0 10px 0 0;
+}
+
+.header-menu-left{
+	padding:0 0 0 10px;
+}

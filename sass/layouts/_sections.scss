@@ -1,0 +1,43 @@
+/* Home container block */
+
+.home-container{
+	
+	margin:20px 20px;
+	height:300px;
+	//background:#5b3e2d;
+	background: #5b3e2d; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(left top, #5b3e2d, yellow); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(bottom right, #5b3e2d, yellow); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(bottom right, #5b3e2d, yellow); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to bottom right, #5b3e2d, yellow); /* Standard syntax */
+	display: flex;
+    text-align: center;	
+	color:gold;
+	align-items:center;
+	box-shadow: 10px 10px 5px #888888;
+}
+
+.home-row{
+	display:flex;
+	align-items:center;
+}
+
+.card-text{
+	border-left: solid #5b3e2d 2px;
+	text-align:left;
+	h2{
+		border-bottom: solid #5b3e2d 1px;
+		margin-bottom:5px;
+	}
+}
+
+.card-image{
+	margin:auto;
+}
+
+/* card edit section */
+.template-img-edit{
+	padding: 20px;
+    border: solid brown 2px;
+    border-radius: 50%;
+}

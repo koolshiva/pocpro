@@ -4,7 +4,9 @@ pocpro.controller('ProfileEditorController',['$scope','vcard',function($scope,vc
 	//debugger;
 	$scope.getText1 = function(param){
 		console.log("inside text1 controller");
-		alert(param);
-		vcard.setNewName(param);
+		//alert(param);
+		var jil = vcard.getCardObj();
+		vcard.setCardObj(param);
+		//alert(vcard.getCardObj())
 	};
 }]);
